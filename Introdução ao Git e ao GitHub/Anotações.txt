@@ -1,1 +1,16 @@
 Link de instalação Git - https://git-scm.com/download/win
+
+...	CREATE A NEW REPOSITORY ON THE COMMAND LINE
+
+git init
+git add * 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lboldezan/DIO-Desafio_Analise_de_Dados_Pandas.git
+git push origin main
+
+...	IMPORTANT COMMANDS
+
+git remote -v
+git status
+ls -a
