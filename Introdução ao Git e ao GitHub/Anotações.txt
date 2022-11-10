@@ -14,3 +14,10 @@ git push origin main
 git remote -v
 git status
 ls -a
+
+...	CONFLITOS GITHUB
+
+git pull origin master 	(puxar o que está no repositório GitHub
+git add *
+git commit -m "resolver conflitos"
+git push origin master 
