@@ -17,7 +17,11 @@ ls -a
 
 ...	CONFLITOS GITHUB
 
-git pull origin master 	(puxar o que está no repositório GitHub
+git pull origin master 	(puxar o que está no repositório GitHub)
 git add *
 git commit -m "resolver conflitos"
 git push origin master 
+
+... 	ACESSAR BRANCH DENTRO DE UM REPOSITÓRIO
+
+git checkout <"nome do repositorio">
